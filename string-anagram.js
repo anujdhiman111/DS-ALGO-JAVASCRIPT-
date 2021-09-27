@@ -18,4 +18,4 @@ function isAnagram(str1,str2){
  const result = isAnagram('hello','lleoh');
  console.log(result)
 
-//  Time complexity: O(n)   (linear)
+//  Time complexity: O(n)    (linear)
